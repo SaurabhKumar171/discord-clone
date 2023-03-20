@@ -1,0 +1,237 @@
+    <!--nav section-->
+      <section class="bg-[#404EED] font-ggSans ">
+        <!-- Navbar -->
+        <nav class="text-[#fff] max-w-[1200px] h-[72px] px-7 flex justify-between mx-auto">
+          <img src="./images/logo.svg" alt="" class="w-[130px]">
+          <ul class="flex space-x-5 font-ggSans font-[600] text-[16px] pt-6">
+            <li>
+              <a href="http://" class="capitalize hover:underline">Download</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">nitro</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">discover</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">safety</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">Support</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">Blog</a>
+            </li>
+            <li>
+              <a href="http://" class="capitalize hover:underline">Careers</a>
+            </li>
+          </ul>
+          <div class="pt-4">
+            <button class="bg-[#fff] text-[#2c2f33] font-[500] text-[14px] rounded-3xl w-28 h-9">Open Discord</button>
+          </div>
+        </nav>
+        <!-- Hero Section - I -->
+        <div class="bg-[#404EED] -mt-1 relative w-full overflow-x-hidden flex flex-col items-center overflow-y-hidden">
+        
+          <img src="./images/Image0.svg" alt="" class="absolute scale-x-125 bottom-0">
+          <img src="./images/Image1.svg" alt="" class="absolute -right-28 bottom-0 z-0">
+          <img src="./images/Image2.svg" alt="" class="absolute -left-28 bottom-0 z-0">
+
+          <div class="h-[560px] flex flex-col gap-4 z-10">
+             <h1 class="text-white font-[800] pt-[1.5em] pl-[1em] text-[56px] font-['GintoNord'] ">IMAGINE A PLACE...</h1>
+             <p class="text-white text-[20px]  font-[400] leading-[32.5px] font-['gg sans'] ">...where you can belong to a school club, a gaming group, or a worldwide art community.<br> Where just you and a handful of friends can spend time together. A place that makes it easy<br> to talk every day and hang out more often.</p>
+              
+             <div class="w-full flex justify-center items-center gap-8 ">
+              <div class=" bg-[#fff] rounded-3xl  h-12 w-64 pt-3 pl-8  cursor-pointer hover:text-[#404EED]">
+               <a href="">
+                <i class="fa-solid fa-download mr-2"></i>
+                Download for Windows
+               </a>
+              </div>
+
+              <div class="text-white bg-black  rounded-3xl h-12 w-64  pt-3 pl-6 cursor-pointer" >
+               <a href="" >
+                Open Discord in your browser
+               </a>
+              </div>
+             </div>
+          </div>
+        
+        </div>
+    
+         
+        
+    </div>
+
+      </section>
+
+      <!-- Feature Section-I -->
+
+        <section class="w-full mx-auto h-[690px] my-auto flex relative justify-center items-center ">
+
+        <div class="w-[78%] h-[75%] flex justify-center items-center absolute gap-28 -ml-[6em] -mt-[10em]">
+              <img src="./images/section1Image.svg" alt="" class="w-[580px] self-end	">
+              <div class="mt-[6.5em] items-end	">
+                <h1 class="font-[900] text-[44px] mt-[1.3em]">Create an invite-<br>only place where <br> you belong</h1>
+                <p class="w-[100%] text-[19px] mt-6">Discord servers are organized into topic<br>-based channels where you can<br> collaborate, share, and just talk about<br> your day without clogging up a group chat.
+                </p>
+              </div>
+        </div>
+
+      </section>  
+
+
+        <!-- Feature Section-II -->
+
+        <section class="w-full h-[690px] my-auto flex relative justify-center items-center bg-[#f6f6f6]">
+
+          <div class="w-[78%] h-[75%] flex justify-center items-center absolute gap-28 ml-[7em] -mt-[7em]">
+                <div class="mt-[6.5em] items-end	">
+                  <h1 class="font-[900] text-[44px] mt-[1.3em]">Where hanging <br>out is easy</h1>
+                  <p class="w-[100%] text-[19px] mt-6">Grab a seat in a voice channel when you're <br>free. Friends in your server can see you're <br>around and instantly pop in to talk <br>without having to call.
+                  </p>
+                </div>
+
+                <img src="./images/section2Image.svg" alt="" class="w-[580px] self-end	">
+          </div>
+  
+        </section>  
+
+          <!-- Feature Section-III -->
+
+          <section class="w-full mx-auto h-[690px] my-auto flex relative justify-center items-center ">
+
+            <div class="w-[78%] h-[75%] flex justify-center items-center absolute gap-28 -ml-[6em] -mt-[10em]">
+                  <img src="./images/section3Image.svg" alt="" class="w-[580px] self-end	">
+                  <div class="mt-[6.5em] items-end	">
+                    <h1 class="font-[900] text-[44px] mt-[1.3em]">From few to a <br>fandom</h1>
+                    <p class="w-[100%] text-[19px] mt-6">Get any community running with <br>moderation tools and custom member <br>access. Give members special powers, set <br>up private channels, and more.
+                    </p>
+                  </div>
+            </div>
+    
+          </section>  
+
+                <!-- Feature Section-IV -->
+
+                <section class="w-full mx-auto h-[117vh] my-auto bg-[#f6f6f6] flex justify-center items-baseline">
+
+                  <div class="flex flex-col w-[1200px] -mt-[3em]">
+
+                    <div class="mt-[6.5em] items-end self-center	">
+                      <h1 class="font-[800] font-['GintoNord'] leading-[32px] text-center text-[40px] mt-[1.3em]">RELIABLE TECH FOR STAYING CLOSE</h1>
+                      <p class="w-[100%] text-[19px] mt-6">Low-latency voice and video feels like you're in the same room. Wave hello over video, watch friends stream <br>their games, or gather up and have a drawing session with screen share.
+                      </p>
+                    </div>
+                        <img src="./images/section4Image.svg" alt="" class="w-[117rem] self-end	">
+                    
+                        <div class="ml-[19em]">
+                          <img src="./images/section5Image.svg" alt="" class="">
+                          <p class="font-['GintoNord'] text-[25px] ml-[2.5em] -mt-[0.7em]">Ready to start your journey?</p>
+
+                                 <p class="bg-[#404EED] hidden md:block w-fit text-white text-[20px] 
+                                  font-[500] font-['ggSans'] px-[32px] py-[16px] rounded-full ml-[7em] mt-[1.2em] cursor-pointer">
+                                  <i class="fa-solid fa-download mr-2"></i>
+                                  Download for Windows
+                                </p>
+                        </div>
+ 
+                        
+                  </div>
+          
+                </section> 
+
+
+                <!-- footer -->
+
+                <footer class="bg-[#23272a]  h-[53vh]">
+
+                  <div class="max-w-[1200px] mx-auto">
+
+                    <!-- upper footer -->
+                    <div class="flex gap-36 pt-28 pb-8">
+                        <!-- heading -->
+                       <div class="flex flex-col gap-4">
+                          <h1 class="text-[#404EED] font-[800] font-['GintoNord'] text-[32px] leading-[30.4px]">IMAGINE A<br>
+                            PLACE</h1>
+
+                            <div class="text-white text-[23px] flex gap-7">
+                              <a href="#">
+                                <i class="fa-brands fa-twitter"></i>
+                              </a>
+                              <a href="#">
+                                <i class="fa-brands fa-instagram"></i>
+                              </a>
+                              <a href="#">
+                                <i class="fa-brands fa-square-facebook"></i>
+                              </a>
+                              <a href="#">
+                                <i class="fa-brands fa-youtube"></i>
+                              </a>
+                            </div>
+                       </div>
+
+                       <!-- footer options -->
+                       <div class="grid grid-cols-4 gap-16">
+                          <div>
+
+                            <ul class="flex flex-col gap-3">
+                                 <li class="text-[#404EED]">Product</li>
+                                 <li class="text-white"><a href="http://">Download</a></li>
+                                 <li class="text-white"><a href="">Nitro</a></li>
+                                 <li class="text-white"><a href="">Status</a></li>
+                            </ul>
+
+                          </div>
+
+                          <div>
+                             <ul class="flex flex-col gap-3">
+                               <li class="text-[#404EED]">Company</li>
+                               <li class="text-white"><a href="http://">About</a></li>
+                               <li class="text-white"><a href="http://">Jobs</a></li>
+                               <li class="text-white"><a href="http://">Branding</a></li>
+                               <li class="text-white"><a href="http://">Newsroom</a></li>
+                             </ul>
+                          </div>
+                          <div>
+                             <ul class="flex flex-col gap-3">
+                              <li class="text-[#404EED]">Resources</li>
+                              <li class="text-white"><a href="">Colleges</a></li>
+                              <li class="text-white"><a href="">Support</a></li>
+                              <li class="text-white"><a href="">Safety</a></li>
+                              <li class="text-white"><a href="">Blog</a></li>
+                              <li class="text-white"><a href="">Feedback</a></li>
+                              <li class="text-white"><a href="">Developers</a></li>
+                              <li class="text-white"><a href="">Steramkit</a></li>
+                              <li class="text-white"><a href="">Creators</a></li>
+                             </ul>
+                          </div>
+                          <div>
+                            <ul class="flex flex-col gap-3">
+                              <li class="text-[#404EED]"><a href="">Policies</a></li>
+                              <li class="text-white"><a href="">Terms</a></li>
+                              <li class="text-white"><a href="">Privacy</a></li>
+                              <li class="text-white"><a href="">Cookie Settings</a></li>
+                              <li class="text-white"><a href="">Guidelines</a></li>
+                              <li class="text-white"><a href="">Acknowledgements</a></li>
+                              <li class="text-white"><a href="">Licenses</a></li>
+                              <li class="text-white"><a href="">Moderation</a></li>
+                            </ul>
+                          </div>
+                       </div>
+
+                    </div>
+
+                    <!-- line -->
+                    <hr class="border-[#404EED]">
+
+                    <!-- Lower footer -->
+                    <div class="flex justify-between pt-4">
+                       <img src="./images/logo.svg" alt="">
+
+                       <button class="bg-[#404EED] cursor-pointer text-white h-10 w-20 rounded-3xl">Sign up</button>
+                    </div>
+
+                  </div>
+                   
+                </footer>
